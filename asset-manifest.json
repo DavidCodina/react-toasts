@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-toasts/static/css/main.fe948c8c.chunk.css",
-    "main.js": "/react-toasts/static/js/main.73e4bd7d.chunk.js",
-    "main.js.map": "/react-toasts/static/js/main.73e4bd7d.chunk.js.map",
+    "main.css": "/react-toasts/static/css/main.0733f01c.chunk.css",
+    "main.js": "/react-toasts/static/js/main.ab276b32.chunk.js",
+    "main.js.map": "/react-toasts/static/js/main.ab276b32.chunk.js.map",
     "runtime-main.js": "/react-toasts/static/js/runtime-main.6315bd2e.js",
     "runtime-main.js.map": "/react-toasts/static/js/runtime-main.6315bd2e.js.map",
-    "static/js/2.553bb07a.chunk.js": "/react-toasts/static/js/2.553bb07a.chunk.js",
-    "static/js/2.553bb07a.chunk.js.map": "/react-toasts/static/js/2.553bb07a.chunk.js.map",
+    "static/js/2.17cb57e3.chunk.js": "/react-toasts/static/js/2.17cb57e3.chunk.js",
+    "static/js/2.17cb57e3.chunk.js.map": "/react-toasts/static/js/2.17cb57e3.chunk.js.map",
     "index.html": "/react-toasts/index.html",
-    "static/css/main.fe948c8c.chunk.css.map": "/react-toasts/static/css/main.fe948c8c.chunk.css.map",
-    "static/js/2.553bb07a.chunk.js.LICENSE.txt": "/react-toasts/static/js/2.553bb07a.chunk.js.LICENSE.txt"
+    "static/css/main.0733f01c.chunk.css.map": "/react-toasts/static/css/main.0733f01c.chunk.css.map",
+    "static/js/2.17cb57e3.chunk.js.LICENSE.txt": "/react-toasts/static/js/2.17cb57e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6315bd2e.js",
-    "static/js/2.553bb07a.chunk.js",
-    "static/css/main.fe948c8c.chunk.css",
-    "static/js/main.73e4bd7d.chunk.js"
+    "static/js/2.17cb57e3.chunk.js",
+    "static/css/main.0733f01c.chunk.css",
+    "static/js/main.ab276b32.chunk.js"
   ]
 }
